@@ -12,7 +12,7 @@
     
 https://stepik.org/lesson/14513/step/8?unit=4147
  */
-package simple.asciiCharSequence;
+package module3._352.asciiCharSequence;
 
 import java.util.Arrays;
 
@@ -43,5 +43,6 @@ public class AsciiCharSequence implements CharSequence {
     public String toString() {
         return new String(bytes);
     }
+    
     
 }

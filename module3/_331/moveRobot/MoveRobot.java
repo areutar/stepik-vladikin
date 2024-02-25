@@ -1,4 +1,4 @@
-package simple.moveRobot;
+package module3._331.moveRobot;
 
 public class MoveRobot {   
 

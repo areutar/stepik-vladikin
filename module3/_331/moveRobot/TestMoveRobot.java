@@ -1,16 +1,18 @@
-package simple.moveRobot;
+package module3._331.moveRobot;
 
+import static module3._331.moveRobot.MoveRobot.moveRobot;
 import static org.junit.Assert.assertEquals;
-import static simple.moveRobot.MoveRobot.moveRobot;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-import simple.moveRobot.MoveRobot.Direction;
-import simple.moveRobot.MoveRobot.Robot;
+import module3._331.moveRobot.MoveRobot.Direction;
+import module3._331.moveRobot.MoveRobot.Robot;
 
 public class TestMoveRobot {
     private final ByteArrayOutputStream out = new ByteArrayOutputStream();

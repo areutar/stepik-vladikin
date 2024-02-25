@@ -1,10 +1,10 @@
-package simple.leftRectangleFormula;
+package module3._351.leftRectangleFormula;
 
 import static java.lang.Math.abs;
 import static java.lang.Math.pow;
 import static java.lang.Math.sin;
 import static org.junit.Assert.assertTrue;
-import static simple.leftRectangleFormula.LeftRectangleFormula.leftRectangleFormula;
+import static module3._351.leftRectangleFormula.LeftRectangleFormula.leftRectangleFormula;
 
 import java.util.function.DoubleUnaryOperator;
 import java.util.stream.Stream;

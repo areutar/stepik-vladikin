@@ -1,4 +1,4 @@
-package simple.leftRectangleFormula;
+package module3._351.leftRectangleFormula;
 
 import java.util.function.DoubleUnaryOperator;
 
