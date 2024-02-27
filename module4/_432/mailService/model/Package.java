@@ -1,4 +1,4 @@
-package simple.mailService.model;
+package module4._432.mailService.model;
 
 /*
 Класс, который задает посылку. У посылки есть текстовое описание содержимого и целочисленная ценность.

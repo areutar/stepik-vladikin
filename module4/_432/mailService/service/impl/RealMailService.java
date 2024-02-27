@@ -1,7 +1,7 @@
-package simple.mailService.service.impl;
+package module4._432.mailService.service.impl;
 
-import simple.mailService.model.Sendable;
-import simple.mailService.service.MailService;
+import module4._432.mailService.model.Sendable;
+import module4._432.mailService.service.MailService;
 
 /*
 Класс, в котором скрыта логика настоящей почты

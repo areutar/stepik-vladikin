@@ -1,4 +1,4 @@
-package simple.mailService.model.impl;
+package module4._432.mailService.model.impl;
 
 /*
 Письмо, у которого есть текст, который можно получить с помощью метода `getMessage`

@@ -1,4 +1,4 @@
-package simple.mailService.exception;
+package module4._432.mailService.exception;
 
 public class IllegalPackageException extends RuntimeException {
     public IllegalPackageException() {

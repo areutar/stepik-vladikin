@@ -1,11 +1,11 @@
-package simple.mailService.service.impl;
+package module4._432.mailService.service.impl;
 
-import simple.mailService.model.Sendable;
-import simple.mailService.exception.IllegalPackageException;
-import simple.mailService.exception.StolenPackageException;
-import simple.mailService.model.Package;
-import simple.mailService.model.impl.MailPackage;
-import simple.mailService.service.MailService;
+import module4._432.mailService.model.Sendable;
+import module4._432.mailService.exception.IllegalPackageException;
+import module4._432.mailService.exception.StolenPackageException;
+import module4._432.mailService.model.Package;
+import module4._432.mailService.model.impl.MailPackage;
+import module4._432.mailService.service.MailService;
 
 public class Inspector implements MailService {
     public static final String WEAPONS = "weapons";

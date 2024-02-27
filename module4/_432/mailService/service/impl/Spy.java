@@ -1,18 +1,11 @@
-package simple.mailService.service.impl;
+package module4._432.mailService.service.impl;
 
-import java.io.File;
-import java.io.IOException;
-import java.nio.charset.Charset;
-import java.util.Arrays;
-import java.util.logging.ConsoleHandler;
-import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
 
-import simple.mailService.model.Sendable;
-import simple.mailService.model.impl.MailMessage;
-import simple.mailService.service.MailService;;
+import module4._432.mailService.model.Sendable;
+import module4._432.mailService.model.impl.MailMessage;
+import module4._432.mailService.service.MailService;;
 
 public class Spy implements MailService {
     private final Logger logger;

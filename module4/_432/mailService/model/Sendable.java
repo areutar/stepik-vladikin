@@ -1,4 +1,4 @@
-package simple.mailService.model;
+package module4._432.mailService.model;
 
 /*
 Интерфейс: сущность, которую можно отправить по почте.

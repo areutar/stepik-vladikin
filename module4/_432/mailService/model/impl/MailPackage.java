@@ -1,6 +1,6 @@
-package simple.mailService.model.impl;
+package module4._432.mailService.model.impl;
 
-import simple.mailService.model.Package;
+import module4._432.mailService.model.Package;
 
 /*
 Посылка, содержимое которой можно получить с помощью метода `getContent`

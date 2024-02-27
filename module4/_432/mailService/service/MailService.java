@@ -1,6 +1,6 @@
-package simple.mailService.service;
+package module4._432.mailService.service;
 
-import simple.mailService.model.Sendable;
+import module4._432.mailService.model.Sendable;
 
 /*
 Интерфейс, который задает класс, который может каким-либо образом обработать почтовый объект.
